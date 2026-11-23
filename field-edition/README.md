@@ -2,6 +2,8 @@
 
 **Three to seven days in person.** Live at a host site, share meals and camp work, and build things the next group can use. Start with three bounties: a phone charging station, a weather shelter, and a water filtration station. Each bounty ends with someone from another crew operating the finished build.
 
+Use the [Knowledge Base](../knowledge-base/README.md) to choose between two builds per bounty and share what your crew learns.
+
 ## Set up the camp
 
 Players organize and fund their own camp. Agree together on who will host, what each person is willing to bring or do, and how to cover shared expenses.
