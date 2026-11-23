@@ -4,10 +4,12 @@
 
 ## Set up the camp
 
+Players organize and fund their own camp. Agree together on who will host, what each person is willing to bring or do, and how to cover shared expenses.
+
 - The host confirms site permission, sleeping arrangements, toilets and handwashing, a reliable supply of drinking water, and an indoor or off-site fallback. Walk the site together on arrival and show everyone how to reach the host and leave camp.
 - Keep emergency communications and ordinary access to food, drinking water, and shelter available throughout. Apply the power-out premise to the projects. Players use off-grid power for the charging bounty while emergency phones stay available.
 - Put the three bounty cards on a board. For each, name a build lead, a second crew that will run the test, and the person who will tend the finished project. Small groups can build in sequence. Make meals, cleanup, and rest part of the daily plan.
-- Inventory tools, supplies, and skills before spending. Agree on the actual budget with the host. If you play with the $10,000 Grandmother Fund, record those fictional allocations in a separate ledger.
+- Inventory what players can bring, share, or borrow. List any remaining supplies and site costs, agree on a spending limit and how to split expenses before anyone buys anything, and track what was spent. Scale the builds to the resources the group can commit.
 
 ## Run of play
 
