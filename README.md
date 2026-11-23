@@ -8,3 +8,5 @@ Pick one of the [seven starter scenarios](scenarios/README.md). Each includes a 
 ## Live it in person
 
 The [Field Edition](field-edition/README.md) is a self-run, self-funded camp lasting three to seven days. Build and test a phone charging station, a weather shelter, and a water filtration station, then hand the working projects to the next crew.
+
+Browse the [Knowledge Base](knowledge-base/README.md) for build instructions and ways to contribute what your crew learns.
