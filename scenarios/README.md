@@ -7,11 +7,9 @@ Pick a scenario, read its opening aloud, and see what your group can make possib
 **Players:** 3–8, including one facilitator. **Time:** 45–75 minutes. **Materials:** paper and pencils. Use a hand-drawn map for tabletop play or mark fictional locations around a familiar site for a walk-through.
 
 1. Each player names one skill or resource they can offer and one responsibility or need they bring. Ask before assigning another character a job or committing their supplies.
-2. Draw the key locations and write down the starting supplies. Each round, every player proposes one action. Players can act together, take care of a need, gather information, or ask a neighbor for help.
+2. Draw the key locations and write down the starting supplies listed in the scenario and any contributions the players agree to bring into play. Each round, every player proposes one action. Players can act together, take care of a need, gather information, or ask a neighbor for help.
 3. After the first round, read the **Twist**. Play two more rounds. The facilitator describes what actions achieve and tracks time, supplies, and promises. When the outcome is uncertain, offer a concrete cost or tradeoff and let the player decide whether to proceed.
 4. End by checking the bounty together. Record what worked, who still needs support, and one thing the next group can inherit. A partial result can become the opening situation for the next game.
-
-**Optional Grandmother Fund:** As part of setup, a previous generation grants you a fictional $10,000. Agree on three things you could buy locally and write down their prices and delivery times. Only goods that arrive before the disruption count as starting supplies.
 
 Keep damage, closures, and outages fictional. During walk-throughs, everyone can leave the play area and use their phone at any time.
 
